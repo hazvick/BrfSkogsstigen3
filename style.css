@@ -57,23 +57,23 @@ main {
 .info {
     position: absolute;
     color: #3b5998;
-    font-size: 2.5em;
+    font-size: 1.1em;
     padding: 60px;
 }
 
 .nyheter {
-    font-size: 2.5em;
+    font-size: 1.1em;
     padding: 60px;
     color: #3b5998;
-    margin-top: 630px;
+    margin-top: 350px;
     position: absolute;
 }
 
 .widget-welcome .temperature {
-    font-size: 16em;
+    font-size: 6em;
     font-weight: 700;
     position: absolute;
-    margin-top: 250px;
-    margin-left: 1400px;
+    margin-top: 190px;
+    margin-left: 600px;
 }
 
